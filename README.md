@@ -45,7 +45,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div >
 
 ### 💼 Core Technologies
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -72,7 +72,7 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div>
 
 <div style="background: #f5f5f5; border-left: 6px solid #512BD4; border-radius: 10px; padding: 15px; margin-bottom: 15px; width: 80%;">
 **🏦 Bank Management System**  
@@ -109,12 +109,3 @@ Embedded system robot for automatic fire detection and extinguishing
 
 ---
 
-<div align="center">
-
-🌟 **Always Learning, Building & Improving as a Software Engineer**  
-
-### ⭐ **"Good code is a technical document by itself"**
-
-[![Visitors](https://komarev.com/ghpvc/?username=mohamed-dawood&color=00FF9D&style=flat-square)](https://github.com/mohamed-dawood)
-
-</div>
