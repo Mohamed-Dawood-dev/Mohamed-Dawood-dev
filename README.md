@@ -19,11 +19,8 @@
   <a href="https://www.linkedin.com/in/mohamed-dawood-78253336a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mohameddawood.eng@gmail.com">
+  <a href="mohameddawood.eng@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/mohamed-dawood">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
