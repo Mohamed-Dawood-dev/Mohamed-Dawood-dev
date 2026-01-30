@@ -12,7 +12,6 @@
 <p>
   <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-00C853?style=for-the-badge&logo=linkedin&logoColor=white" alt="Status" />
   <img src="https://img.shields.io/badge/Location-Egypt-FF6B35?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Experience-3%2B_Years-512BD4?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience" />
 </p>
 
 <p>
@@ -36,13 +35,10 @@
 
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
-</p>
-
 - 🔭 **Specialized in:** Backend Development using **ASP.NET Core**  
 - 🗄️ **Passionate about:** Database Design & System Architecture  
 - 🏗️ **Enjoy building:** Real-world, scalable solutions  
+- 📧 **Email:** mohameddawood.eng@gmail.com  
 - 📈 **Aiming to improve:** Skills in **API Development & Advanced .NET**  
 
 ---
@@ -72,41 +68,33 @@
 
 </div>
 
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
-### 🏦 Bank Management System
-<div style="background: linear-gradient(135deg, #512BD4, #00C9FF); border-radius: 15px; padding: 20px; margin-bottom: 20px; width: 80%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <p align="center">
-    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Bank GIF">
-  </p>
-  <h3 align="center">🏦 Bank Management System</h3>
-  <p align="center">Full-featured system to manage customers, accounts, and transactions</p>
-  <p align="center"><strong>Tech Stack:</strong> ASP.NET Core, SQL Server, Entity Framework</p>
+<div style="background: #f5f5f5; border-left: 6px solid #512BD4; border-radius: 10px; padding: 15px; margin-bottom: 15px; width: 80%;">
+**🏦 Bank Management System**  
+Full-featured system to manage customers, accounts, and transactions  
+**Tech Stack:** ASP.NET Core, SQL Server, Entity Framework
 </div>
 
-### 🎓 Student Management System
-<div style="background: linear-gradient(135deg, #FF6B35, #FFB347); border-radius: 15px; padding: 20px; margin-bottom: 20px; width: 80%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <p align="center">
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Student GIF">
-  </p>
-  <h3 align="center">🎓 Student Management System</h3>
-  <p align="center">Web-based system to manage student records</p>
-  <p align="center"><strong>Tech Stack:</strong> Flask, Python, HTML, CSS</p>
+<div style="background: #f5f5f5; border-left: 6px solid #FF6B35; border-radius: 10px; padding: 15px; margin-bottom: 15px; width: 80%;">
+**🎓 Student Management System**  
+Web-based system to manage student records  
+**Tech Stack:** Flask, Python, HTML, CSS
 </div>
 
-### 🤖 FireShield Robot
-<div style="background: linear-gradient(135deg, #00C853, #A0FF92); border-radius: 15px; padding: 20px; margin-bottom: 20px; width: 80%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  <p align="center">
-    <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="200" alt="Robot GIF">
-  </p>
-  <h3 align="center">🤖 FireShield Robot</h3>
-  <p align="center">Embedded system robot for automatic fire detection and extinguishing</p>
-  <p align="center"><strong>Tech Stack:</strong> Embedded Systems, C++, Sensors</p>
+<div style="background: #f5f5f5; border-left: 6px solid #00C853; border-radius: 10px; padding: 15px; margin-bottom: 15px; width: 80%;">
+**🤖 FireShield Robot**  
+Embedded system robot for automatic fire detection and extinguishing  
+**Tech Stack:** Embedded Systems, C++, Sensors
 </div>
 
 </div>
+
+---
 
 ## 📚 Currently Learning
 
@@ -119,21 +107,13 @@
 - 🔹 **Database Design & Optimization** - Performance & advanced modeling  
 - 🔹 **System Architecture** - Scalability & Microservices  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="200" alt="Learning GIF">
-</p>
-
 ---
 
 <div align="center">
 
-🌟 **Always Learning, Building & Improving as a Software Engineer**
-
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="150" alt="Coding GIF">
+🌟 **Always Learning, Building & Improving as a Software Engineer**  
 
 ### ⭐ **"Good code is a technical document by itself"**
-
-<br/>
 
 [![Visitors](https://komarev.com/ghpvc/?username=mohamed-dawood&color=00FF9D&style=flat-square)](https://github.com/mohamed-dawood)
 
