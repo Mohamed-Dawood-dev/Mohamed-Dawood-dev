@@ -22,9 +22,6 @@
   <a href="mailto:mohameddawood.eng@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/mohamed-dawood">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 </div>
@@ -75,40 +72,41 @@
 
 </div>
 
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
 ### 🏦 Bank Management System
-<p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Bank GIF">
-</p>
-**Description:** Full-featured system to manage customers, accounts, and transactions  
-**Tech Stack:** ASP.NET Core, SQL Server, Entity Framework  
-
----
-
-### 🎓 Student Management System
-<p align="center">
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250" alt="Student GIF">
-</p>
-**Description:** Web-based system to manage student records  
-**Tech Stack:** Flask, Python, HTML, CSS  
-
----
-
-### 🤖 FireShield Robot
-<p align="center">
-<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="250" alt="Robot GIF">
-</p>
-**Description:** Embedded system robot for automatic fire detection and extinguishing  
-**Tech Stack:** Embedded Systems, C++, Sensors  
-
+<div style="background: linear-gradient(135deg, #512BD4, #00C9FF); border-radius: 15px; padding: 20px; margin-bottom: 20px; width: 80%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <p align="center">
+    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Bank GIF">
+  </p>
+  <h3 align="center">🏦 Bank Management System</h3>
+  <p align="center">Full-featured system to manage customers, accounts, and transactions</p>
+  <p align="center"><strong>Tech Stack:</strong> ASP.NET Core, SQL Server, Entity Framework</p>
 </div>
 
----
+### 🎓 Student Management System
+<div style="background: linear-gradient(135deg, #FF6B35, #FFB347); border-radius: 15px; padding: 20px; margin-bottom: 20px; width: 80%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <p align="center">
+    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Student GIF">
+  </p>
+  <h3 align="center">🎓 Student Management System</h3>
+  <p align="center">Web-based system to manage student records</p>
+  <p align="center"><strong>Tech Stack:</strong> Flask, Python, HTML, CSS</p>
+</div>
+
+### 🤖 FireShield Robot
+<div style="background: linear-gradient(135deg, #00C853, #A0FF92); border-radius: 15px; padding: 20px; margin-bottom: 20px; width: 80%; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <p align="center">
+    <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="200" alt="Robot GIF">
+  </p>
+  <h3 align="center">🤖 FireShield Robot</h3>
+  <p align="center">Embedded system robot for automatic fire detection and extinguishing</p>
+  <p align="center"><strong>Tech Stack:</strong> Embedded Systems, C++, Sensors</p>
+</div>
+
+</div>
 
 ## 📚 Currently Learning
 
