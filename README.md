@@ -1,68 +1,140 @@
-<h1 align="center" style="color:#FF5733;">Hi 👋, I'm Mohamed Dawood</h1>
-<h3 align="center" style="color:#33C3FF;">💻 ASP.NET Backend Developer | 🎓 Software Engineering Student</h3>
+<!-- احذف هذا السطر وكل ما بعده ثم الصق التصميم الجديد -->
+
+<div align="center">
+
+# 👋 مرحباً، أنا محمد داوود
+
+### 💻 **مطور Backend متخصص في ASP.NET** | 🎓 **طالب هندسة برمجيات**
+
+🚀 *شغوف ببناء أنظمة خلفية واقعية وقواعد بيانات متينة*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=ASP.NET+Core+Developer;Database+Design+Enthusiast;Software+Engineering+Student;Backend+Architecture+Lover" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-dawood-78253336a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohameddawood.eng@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-dawood)
+
+</div>
+
+---
+
+## 🎯 **نبذة عني**
+
+<div align="center">
+
+🎓 **طالب هندسة برمجيات** | 💼 **متدرب في IT Legend** | 🌱 **أتعلم باستمرار وأطور مهاراتي**
+
+</div>
 
 <p align="center">
-  🚀 Passionate about building real-world backend systems and databases  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
 </p>
+
+- 🔭 **أتخصص في:** تطوير Backend باستخدام **ASP.NET Core**
+- 🗄️ **أهتم بـ:** تصميم قواعد البيانات وهندسة الأنظمة
+- 🏗️ **أستمتع بـ:** بناء أنظمة متكاملة وحلول واقعية
+- 📈 **أسعى لـ:** تطوير مهاراتي في **API Development و Advanced .NET**
+
+---
+
+## 🛠️ **التقنيات التي أستخدمها**
+
+<div align="center">
+
+### **💼 التقنيات الأساسية**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+
+### **🗄️ قواعد البيانات**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **🔧 الأدوات والتطوير**
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### **🌐 تطوير الويب**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 **المشاريع المميزة**
+
+<div align="center">
+
+### **💼 مشاريع ASP.NET Core**
+
+</div>
+
+| المشروع | الوصف | التقنيات |
+|---------|--------|----------|
+| **🏦 نظام إدارة البنك** | نظام متكامل لإدارة العملاء والحسابات والمعاملات المصرفية | ASP.NET Core, SQL Server, Entity Framework |
+| **🎓 نظام إدارة الطلاب** | نظام ويب لإدارة سجلات الطلاب والبيانات الأكاديمية | Flask, Python, HTML, CSS |
+| **🤖 روبوت مكافحة الحرائق "FireShield"** | نظام مدمج للكشف عن الحرائق وإطفائها تلقائياً | Embedded Systems, C++, Sensors |
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Projects GIF">
 </p>
 
 ---
 
-<h2 align="left" style="color:#FF33A6;">👨‍💼 About Me</h2>
-- 🎓 Software Engineering Student  
-- 💻 Specialized in **ASP.NET Core Backend Development**  
-- 🗄 Strong interest in **Databases & System Design**  
-- 🏢 Trainee at **IT Legend**  
-- 🌱 Currently improving my skills in **API Development & Advanced .NET**
+## 📚 **أتعلم حالياً**
 
----
+<div align="center">
 
-<h2 align="left" style="color:#33FF57;">🛠 Tech Stack</h2>
+🎯 **أتجه نحو التميز في عالم Backend Development**
 
-<p align="left">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+
+- 🔹 **ASP.NET Core المتقدم** - أنماط التصميم وأفضل الممارسات
+- 🔹 **تطوير RESTful APIs** - بناء واجهات برمجية قوية وآمنة
+- 🔹 **تصميم وتحسين قواعد البيانات** - الأداء والنمذجة المتقدمة
+- 🔹 **معمارية الأنظمة** - Scalability وMicroservices
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="200" alt="Learning GIF">
 </p>
 
 ---
 
-<h2 align="left" style="color:#FFC300;">🚀 Featured Projects</h2>
+## 📊 **إحصائيات GitHub**
 
-### 🏦 Bank Management System
-> ASP.NET Core + SQL Server system for managing customers, accounts, and transactions.
+<div align="center">
 
-### 🎓 Student Management System
-> Flask-based web system for handling student records and data.
+### **📈 نشاطي على GitHub**
 
-### 🤖 Fire Fighting Robot "FireShield"
-> Embedded system robot that detects fire and extinguishes it automatically.
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-dawood&show_icons=true&theme=radical&count_private=true&hide_border=true)
+
+### **💻 اللغات الأكثر استخداماً**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-dawood&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+### **🔥 خط التطور**
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohamed-dawood&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-<h2 align="left" style="color:#FF5733;">📚 Currently Learning</h2>
-- 🔹 Advanced ASP.NET Core  
-- 🔹 RESTful API Development  
-- 🔹 Database Design & Optimization  
+<div align="center">
 
----
+## 🌟 **دائماً أتعلم، أبني، وأتحسن كمهندس برمجيات**
 
-<h2 align="left" style="color:#33C3FF;">📫 Connect With Me</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-dawood-78253336a" target="_blank">💼 LinkedIn</a>  
-  <br>
-  <a href="mailto:mohameddawood.eng@gmail.com">📧 Email Me</a>
-</p>
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="150" alt="Coding GIF">
 
+### ⭐ **"الكود الجيد هو وثيقة تقنية بحد ذاته"**
 
-<p align="center" style="color:#33FF57; font-weight:bold;">
-  ⭐ Always learning, building, and improving as a software engineer
-</p>
+<br/>
+
+[![Visitors](https://komarev.com/ghpvc/?username=mohamed-dawood&color=00FF9D&style=flat-square)](https://github.com/mohamed-dawood)
+
+</div>
