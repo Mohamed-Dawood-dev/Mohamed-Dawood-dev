@@ -81,9 +81,9 @@
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| 🏦 **Bank Management System** | Full-featured system to manage customers, accounts, and transactions | ASP.NET Core, SQL Server, Entity Framework |
-| 🎓 **Student Management System** | Web-based system to manage student records | Flask, Python, HTML, CSS |
-| 🤖 **FireShield Robot** | Embedded system robot for automatic fire detection and extinguishing | Embedded Systems, C++, Sensors |
+| 🏦 **Bank Management System ** | Full-featured system to manage customers, accounts, and transactions | ASP.NET Core, SQL Server, Entity Framework |
+| 🎓 **Student Management System ** | Web-based system to manage student records | Flask, Python, HTML, CSS |
+| 🤖 **FireShield Robot ** | Embedded system robot for automatic fire detection and extinguishing | Embedded Systems, C++, Sensors |
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Projects GIF">
