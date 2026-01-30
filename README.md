@@ -12,27 +12,26 @@
 ---
 
 <h2 align="left" style="color:#FF33A6;">👨‍💼 About Me</h2>
-<ul>
-  <li>🎓 Software Engineering Student</li>
-  <li>💻 Specialized in <b>ASP.NET Core Backend Development</b></li>
-  <li>🗄 Strong interest in <b>Databases & System Design</b></li>
-  <li>🏢 Trainee at <b>IT Legend</b></li>
-  <li>🌱 Currently improving my skills in <b>API Development & Advanced .NET</b></li>
-</ul>
+- 🎓 Software Engineering Student  
+- 💻 Specialized in **ASP.NET Core Backend Development**  
+- 🗄 Strong interest in **Databases & System Design**  
+- 🏢 Trainee at **IT Legend**  
+- 🌱 Currently improving my skills in **API Development & Advanced .NET**
 
 ---
 
 <h2 align="left" style="color:#33FF57;">🛠 Tech Stack</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,html,css,js" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
-
-**Languages:** C#  
-**Backend:** ASP.NET Core, Entity Framework  
-**Database:** SQL Server  
-**Frontend Basics:** HTML, CSS, JavaScript  
-**Tools:** Git, GitHub, Visual Studio  
 
 ---
 
@@ -50,11 +49,9 @@
 ---
 
 <h2 align="left" style="color:#FF5733;">📚 Currently Learning</h2>
-<ul>
-  <li>🔹 Advanced ASP.NET Core</li>
-  <li>🔹 RESTful API Development</li>
-  <li>🔹 Database Design & Optimization</li>
-</ul>
+- 🔹 Advanced ASP.NET Core  
+- 🔹 RESTful API Development  
+- 🔹 Database Design & Optimization  
 
 ---
 
@@ -65,3 +62,20 @@
   <a href="mailto:mohameddawood.eng@gmail.com">📧 Email Me</a>
 </p>
 
+---
+
+<h2 align="center" style="color:#FF33A6;">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-dawood&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-dawood&layout=compact&theme=radical" />
+</p>
+
+---
+
+<p align="center" style="color:#33FF57; font-weight:bold;">
+  ⭐ Always learning, building, and improving as a software engineer
+</p>
