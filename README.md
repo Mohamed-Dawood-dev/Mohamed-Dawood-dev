@@ -19,8 +19,11 @@
   <a href="https://www.linkedin.com/in/mohamed-dawood-78253336a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mohameddawood.eng@gmail.com">
+  <a href="mailto:mohameddawood.eng@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/mohamed-dawood">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -76,15 +79,34 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| 🏦 **Bank Management System ** | Full-featured system to manage customers, accounts, and transactions | ASP.NET Core, SQL Server, Entity Framework |
-| 🎓 **Student Management System ** | Web-based system to manage student records | Flask, Python, HTML, CSS |
-| 🤖 **FireShield Robot ** | Embedded system robot for automatic fire detection and extinguishing | Embedded Systems, C++, Sensors |
+<div align="center">
 
+### 🏦 Bank Management System
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Projects GIF">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="Bank GIF">
 </p>
+**Description:** Full-featured system to manage customers, accounts, and transactions  
+**Tech Stack:** ASP.NET Core, SQL Server, Entity Framework  
+
+---
+
+### 🎓 Student Management System
+<p align="center">
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="250" alt="Student GIF">
+</p>
+**Description:** Web-based system to manage student records  
+**Tech Stack:** Flask, Python, HTML, CSS  
+
+---
+
+### 🤖 FireShield Robot
+<p align="center">
+<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="250" alt="Robot GIF">
+</p>
+**Description:** Embedded system robot for automatic fire detection and extinguishing  
+**Tech Stack:** Embedded Systems, C++, Sensors  
+
+</div>
 
 ---
 
@@ -102,9 +124,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="200" alt="Learning GIF">
 </p>
-
----
-
 
 ---
 
