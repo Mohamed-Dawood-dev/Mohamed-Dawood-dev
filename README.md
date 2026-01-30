@@ -65,20 +65,3 @@
   <a href="mailto:mohameddawood.eng@gmail.com">📧 Email Me</a>
 </p>
 
----
-
-<h2 align="center" style="color:#FF33A6;">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-dawood&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-dawood&layout=compact&theme=radical" />
-</p>
-
----
-
-<p align="center" style="color:#33FF57; font-weight:bold;">
-  ⭐ Always learning, building, and improving as a software engineer
-</p>
