@@ -35,21 +35,12 @@
 
 ---
 
-## 🎯 **Professional Summary**
-
-> **ASP.NET Core Backend Specialist** with a passion for building scalable, high-performance enterprise systems. Currently pursuing **Software Engineering** while gaining hands-on experience at **IT Legend**. Focused on **backend architecture, database design, and API development** to create robust solutions that drive business value.
-
-### **Core Expertise**
-```csharp
-public class ExpertiseProfile
-{
-    public string PrimaryRole => "ASP.NET Backend Developer";
-    public string[] Specializations => new[] 
-    { 
-        "Microservices Architecture", 
-        "Database Optimization",
-        "RESTful API Design",
-        "System Performance Tuning"
-    };
-    public string CurrentFocus => "Advanced .NET & Cloud-Native Solutions";
-}
+🏆 Technical Stack & Proficiencies
+Backend Development
+<div align="center"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core" /> <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework" /> </div>
+Databases & Storage
+<div align="center"> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> </div>
+Tools & DevOps
+<div align="center"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> </div>
+Web Technologies
+<div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" /> </div>
