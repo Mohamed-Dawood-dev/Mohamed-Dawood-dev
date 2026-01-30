@@ -105,17 +105,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-dawood&show_icons=true&theme=radical&count_private=true&hide_border=true)  
-
-![Top Languages](https://img.shields.io/github/languages/top/mohamed-dawood?theme=radical&logoColor=white)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mohamed-dawood&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
